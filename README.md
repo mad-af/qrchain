@@ -27,7 +27,7 @@ This repository is a project for HackGlobal 2024: Virtual Bounty Season 3: Omnic
    npm install
    ```
 
-4. Make sure you've installed and configured connection to PostgreSQL in `.env` file:
+4. Make sure `.env` file:
    ```
    HOST=<HOST>
    ```
